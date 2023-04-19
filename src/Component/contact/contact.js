@@ -21,11 +21,11 @@ const Contact = () => {
             </div>
             <div className="c-socialMedia">
             <ul>
-                    <li><a href="https://github.com/vishwaprasanth" target="_blank">
-                        <img src="https://cdn-icons-png.flaticon.com/512/4926/4926624.png"/></a>
+                    <li><a href="https://github.com/vishwaprasanth" target="_blank" rel="noreferrer">
+                        <img src="https://cdn-icons-png.flaticon.com/512/4926/4926624.png" alt="test"/></a>
                     </li>
-                    <li><a href="https://www.linkedin.com/in/vishwa-prasanth-161850247/" target="_blank">
-                        <img src="https://cdn-icons-png.flaticon.com/128/3536/3536505.png"/></a>
+                    <li><a href="https://www.linkedin.com/in/vishwa-prasanth-161850247/" target="_blank" rel="noreferrer">
+                        <img src="https://cdn-icons-png.flaticon.com/128/3536/3536505.png" alt="test2"/></a>
                     </li>
                 </ul>
                     
