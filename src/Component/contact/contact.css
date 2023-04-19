@@ -78,3 +78,9 @@ button{
    width: 5vw;
    height: 7vh;
 }
+@media screen and (max-width: 480px) {
+    .c-wrapper{
+        display: flex;
+        flex-direction: column;
+    }
+}
