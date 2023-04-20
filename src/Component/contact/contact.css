@@ -83,4 +83,7 @@ button{
         display: flex;
         flex-direction: column;
     }
+    .c-socialMedia ul {
+        justify-content: space-around;
+    }
 }

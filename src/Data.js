@@ -19,12 +19,5 @@ export const Products = [
         link: "https://memory-game-vishwaprasanth.netlify.app",
         heading: "Memory Game",
         text:"memory"
-    },
-    {
-        id:4,
-        img: "https://play-lh.googleusercontent.com/WScJxD7-QxFup8kVk5NiMBZ-bsRQEETzPAEiYqjUam_cxe01OqhJUsnWbOKfcHfnsTw=w240-h480-rw",
-        link: "https://memory-game-vishwaprasanth.netlify.app",
-        heading: "M Game",
-        text:"M"
     }
 ]
